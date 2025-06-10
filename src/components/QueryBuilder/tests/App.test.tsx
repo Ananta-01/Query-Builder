@@ -1,8 +1,6 @@
-// src/components/QueryBuilder/tests/App.test.tsx
-
 import { render, screen } from '@testing-library/react';
 import { describe, it, expect } from 'vitest';
-import App from '../../../App'; // 👈 go up from `tests` to `src`
+import App from '../../../App'; 
 
 describe('App Component', () => {
   it('renders the Query Builder heading', () => {

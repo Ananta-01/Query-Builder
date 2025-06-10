@@ -1,5 +1,3 @@
-// src/components/QueryBuilder/constants.ts
-
 import { Field, Operator } from './types';
 
 export const fields: Field[] = ['Status', 'Priority', 'Assigned To', 'Category'];

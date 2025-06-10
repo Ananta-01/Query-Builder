@@ -1,5 +1,3 @@
-// src/components/QueryBuilder/tests/LogicSelector.test.tsx
-
 import { render, screen, fireEvent } from "@testing-library/react";
 import LogicSelector from "../LogicSelector";
 import { describe, it, expect, vi } from "vitest";

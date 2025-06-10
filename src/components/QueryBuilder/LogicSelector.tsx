@@ -1,5 +1,3 @@
-// src/components/QueryBuilder/LogicSelector.tsx
-
 import React from "react";
 
 interface Props {

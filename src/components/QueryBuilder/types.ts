@@ -1,5 +1,3 @@
-// src/components/QueryBuilder/types.ts
-
 export type Field = 'Status' | 'Priority' | 'Assigned To' | 'Category';
 
 export type Operator = 'equals' | 'not equals' | 'contains' | 'does not contain';

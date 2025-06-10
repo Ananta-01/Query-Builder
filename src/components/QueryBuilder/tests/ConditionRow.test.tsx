@@ -1,5 +1,3 @@
-// src/components/QueryBuilder/tests/ConditionRow.test.tsx
-
 import { describe, it, expect, vi } from 'vitest';
 import { render, fireEvent, screen } from '@testing-library/react';
 import ConditionRow from '../ConditionRow';

@@ -1,5 +1,3 @@
-// src/components/QueryBuilder/Group.tsx
-
 import React from 'react';
 import { Condition, QueryGroup, QueryNode } from './types';
 import ConditionRow from './ConditionRow';

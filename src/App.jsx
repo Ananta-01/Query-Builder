@@ -1,5 +1,3 @@
-// src/App.tsx
-
 import React from 'react';
 import QueryBuilder from './components/QueryBuilder/QueryBuilder';
 
